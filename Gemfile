@@ -10,6 +10,12 @@ gem 'thin'
 
 gem 'bootstrap-sass'
 
+gem 'minitest-reporters'
+
+gem 'mini_backtrace'
+
+gem 'guard-minitest'
+
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
 # Use Uglifier as compressor for JavaScript assets

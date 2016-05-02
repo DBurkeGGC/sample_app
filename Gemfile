@@ -16,6 +16,10 @@ gem 'mini_backtrace'
 
 gem 'guard-minitest'
 
+gem 'devise'
+
+gem 'foundation-rails'
+
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
 # Use Uglifier as compressor for JavaScript assets
